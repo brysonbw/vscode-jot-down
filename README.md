@@ -12,6 +12,7 @@
   <p>
     <a href="https://marketplace.visualstudio.com/items?itemName=brysonbw.jot-down"><img alt="vscode-jot-down" src="https://vsmarketplacebadge.apphb.com/version/brysonbw.jot-down.svg?style=flat" /></a>
     <a href="https://marketplace.visualstudio.com/items?itemName=brysonbw.jot-down"><img alt="vscode-jot-down-installs" src="https://vsmarketplacebadge.apphb.com/installs/brysonbw.jot-down.svg?style=flat" /></a>
+     <a href="https://github.com/brysonbw/vscode-jot-down"><img alt="prs-welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" /></a>
     <a href="https://opensource.org/licenses/MIT"><img alt="license" src="https://img.shields.io/badge/License-MIT-blue.svg" /></a>
   </p>
 </div>
