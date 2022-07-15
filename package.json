@@ -3,13 +3,13 @@
   "displayName": "Jot Down",
   "description": "Quick and simple note taking-tool for vs code",
   "license": "MIT",
-    "publisher": "brysonbw",
-    "icon": "media/icon/jot-down.png",
-    "repository": {
-      "type": "git",
-      "url": "https://github.com/brysonbw/vscode-jot-down.git"
+  "publisher": "brysonbw",
+  "icon": "media/icon/jot-down.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brysonbw/vscode-jot-down.git"
   },
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.69.0"
   },
@@ -25,7 +25,7 @@
     "todo",
     "todos",
     "task"
-],
+  ],
   "activationEvents": [
     "onView:jot-down-sidebar",
     "onCommand:jot-down.signIn",
